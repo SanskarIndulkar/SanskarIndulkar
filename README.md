@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanskarIndulkar
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking toget a job in frontend domain
+- 👀 I’m working as a jr.crm developer
+- 🌱 I’m currently learning  crm tools
+- 💞️ I’m looking toget a job in crm domain
 -  
 - 📫 How to reach me --indulkarsanskar@gmail.com
 
